@@ -24,4 +24,4 @@
 ## Contribute
 
 Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
+Please read the [contribution guidelines](https://github.com/Swaroop2sky/.github/blob/main/Contributing.md) first.
