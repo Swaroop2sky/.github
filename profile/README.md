@@ -31,7 +31,7 @@
 ## Contribute
 
 Contributions are always welcome!
-Please read the [contribution guidelines](https://github.com/Swaroop2sky/.github/blob/main/Contributing.md) first.
+Please read the [contribution guidelines](https://github.com/Swaroop2sky/swaroop2sky.github.io/wiki) first.
 
 <p align="center">
 
