@@ -3,6 +3,8 @@
 
 # Welcome to Swaroop2sky 👋 [![Awesome](https://avatars.githubusercontent.com/u/75105593?s=200&v=4)](https://avatars.githubusercontent.com/u/75105593?s=200&v=4)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/S2Sofficial)
+![Repo Size](https://github-size-badge.herokuapp.com/swaroop2sky/swaroop2sky.github.io.svg)
+
 
 - 🙋 **A short introduction** - Here we do very amazing things & we live in a different dimension of the World.
 - 🌈 **Contribution guidelines** - *This field is not active right now, but will be there soon.*
