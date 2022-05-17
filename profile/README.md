@@ -23,7 +23,7 @@
  [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.in/u/Swaroop2sky)
  [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/swaroopyadav)
 
-[![SWAROOP2SKY](https://github-readme-stats.vercel.app/api?username=s2sofficial&title_color=33f719&icon_color=fff957&text_color=ffffff&bg_color=000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://gitHub.com/s2sofficial/github-readme-stats)
+[![SWAROOP2SKY](https://github-readme-stats.vercel.app/api?username=s2sofficial&title_color=33f719&icon_color=fff957&text_color=ffffff&bg_color=000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://gitHub.com/s2sofficial/)
 
 ### Sponsor Our Organization
 
